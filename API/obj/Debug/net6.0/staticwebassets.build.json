@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "csBTjwpc3qlwdAmKvhuDiVSSVEp3InHubLRp8wsbmrA=",
+  "Source": "API",
+  "BasePath": "_content/API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "API\\wwwroot",
+      "Source": "API",
+      "ContentRoot": "C:\\Users\\mjsan\\Documents\\RedisCache.net\\Api\\wwwroot\\",
+      "BasePath": "_content/API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

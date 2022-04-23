@@ -1,0 +1,48 @@
+[
+   {
+      "AuthorId": "sarath-lal7",
+      "Title": "Java 8 Released",
+      "description": "Java 8 released by Oracle",
+      "Link": "/news/java-8-released",
+      "Author": "Vulpes",
+      "Type": "Blog",
+      "Category": "Java"
+   },
+   {
+      "AuthorId": "sarath-lal7",
+      "Title": "TypeScript 1.0 to be included in latest Visual Studio 2013 update",
+      "description": "Full TypeScript support to be added to Visual Studio 2013.",
+      "Link": "/news/typescript-10-to-be-included-in-latest-visual-studio-2013-update",
+      "Author": "Vulpes",
+      "Type": "News",
+      "Category": "Visual Studio 1013"
+   },
+   {
+      "AuthorId": "sarath-lal7",
+      "Title": "Potential New Features for VB.NET",
+      "description": "A list of some potential new features for future versions of VB.NET.",
+      "Link": "/news/potential-new-features-for-vb-net",
+      "Author": "Vulpes",
+      "Type": "News",
+      "Category": "Vb .Net"
+   },
+     {
+        "AuthorId": "jean-paul4",
+        "Title": "Exploring Claims Viewer Web Part",
+        "description": "In this article, we will explore how to download and install the Claims Viewer web part for SharePoint 2013.",
+        "Link": "https://www.c-sharpcorner.com/article/exploring-claims-viewer-web-part/",
+        "Author": "Jean Paul",
+        "Type": "News",
+        "Category": "C#"
+     },
+     {
+        "AuthorId": "jean-paul4",        
+        "Title": "Playing Video In Restricted SharePoint Environments",
+        "description": "In this article you will learn how to play video in restricted SharePoint environments.",
+        "Link": "https://www.c-sharpcorner.com/article/playing-video-in-restricted-sharepoint-environments/",
+        "Author": "Jean Paul",
+        "Type": "News",
+        "Category": "Sharepoint"
+
+     }
+]
